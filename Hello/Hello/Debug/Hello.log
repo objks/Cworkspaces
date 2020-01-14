@@ -1,0 +1,2 @@
+﻿  varDef.c
+C:\ksseo\cwork\Hello\Hello\varDef.c(10): error C4700: 초기화되지 않은 'var4' 지역 변수를 사용했습니다.
